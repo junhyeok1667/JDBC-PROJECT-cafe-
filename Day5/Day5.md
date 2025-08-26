@@ -34,7 +34,7 @@
 ![실행 결과](https://github.com/junhyeok1667/JDBC-PROJECT-cafe-/blob/main/Day5/img_6.png)
 
 <br>
-그림(2)에 대해 아래의 그림과 같이 소분해서 만들어보겠습니다.<br>
+그림(2)에 대해 아래의 그림과 같이 그림(5)와 그림(6)으로 소분해서 만들어보겠습니다.<br>
 
 ![실행 결과](https://github.com/junhyeok1667/JDBC-PROJECT-cafe-/blob/main/Day5/img_7.png)<br>
 ![실행 결과](https://github.com/junhyeok1667/JDBC-PROJECT-cafe-/blob/main/Day5/img_8.png)<br>
