@@ -4,10 +4,10 @@
 MySQl과 Eclipse연동하기==>
 [블로그 바로가기](https://chilisugar-project.tistory.com/2)
 <br>
-관리자 테이블 생성하기<br>
+관리자 테이블 생성하기==>
 [블로그 바로가기](https://chilisugar-project.tistory.com/3)
 <br>
-파일을 읽어 파일 내용을 관리자테이블에 삽입하기<br>
+파일을 읽어 파일 내용을 관리자테이블에 삽입하기==>
 [블로그 바로가기](https://chilisugar-project.tistory.com/4)
 <br>
 
