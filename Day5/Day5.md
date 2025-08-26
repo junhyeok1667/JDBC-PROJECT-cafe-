@@ -15,7 +15,7 @@
 ![실행 결과](https://github.com/junhyeok1667/JDBC-PROJECT-cafe-/blob/main/Day5/img_2.png)
 
 
-그림(1)에 대해 아래의 그림과 같이 소분해서 생각해보겠습니다.<br>
+그림(1)에 대해 아래의 그림과 같이 그림(3)과 그림(4)로 소분해서 생각해보겠습니다.<br>
 <br>
 그림(3)<br>
 ![실행 결과](https://github.com/junhyeok1667/JDBC-PROJECT-cafe-/blob/main/Day5/img_3.png)
@@ -36,13 +36,13 @@
 <br>
 그림(2)에 대해 아래의 그림과 같이 소분해서 만들어보겠습니다.<br>
 
-![실행 결과](https://github.com/junhyeok1667/JDBC-PROJECT-cafe-/blob/main/Day5/img_7.png)
-![실행 결과](https://github.com/junhyeok1667/JDBC-PROJECT-cafe-/blob/main/Day5/img_8.png)
+![실행 결과](https://github.com/junhyeok1667/JDBC-PROJECT-cafe-/blob/main/Day5/img_7.png)<br>
+![실행 결과](https://github.com/junhyeok1667/JDBC-PROJECT-cafe-/blob/main/Day5/img_8.png)<br>
 <br>
 그림(5)을 만들어보겠습니다.<br>
 
-![실행 결과](https://github.com/junhyeok1667/JDBC-PROJECT-cafe-/blob/main/Day5/img_9.png)
-![실행 결과](https://github.com/junhyeok1667/JDBC-PROJECT-cafe-/blob/main/Day5/img_10.png)
+![실행 결과](https://github.com/junhyeok1667/JDBC-PROJECT-cafe-/blob/main/Day5/img_9.png)<br>
+![실행 결과](https://github.com/junhyeok1667/JDBC-PROJECT-cafe-/blob/main/Day5/img_10.png)<br>
 <br>
 그림(6)을 만들어보겠습니다.<br>
 
