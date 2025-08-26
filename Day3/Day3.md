@@ -16,20 +16,20 @@
 
 ![실행 결과](https://github.com/junhyeok1667/JDBC-PROJECT-cafe-/blob/main/Day3/img_1.png)
 <br>
-
+<br>
 2. 중앙에 음식 사진을 넣어보도록 하겠습니다.<br>
 <br>
 여기서 tooltip을 사용해야 하는데 tooltip이란 이미지위에 커서가 올라가면 이미지에 대한 정보가 나오게 되는 것입니다.<br>
 
 ![실행 결과](https://github.com/junhyeok1667/JDBC-PROJECT-cafe-/blob/main/Day3/img_2.png)
 <br>
-
+<br>
 3. 하단에 Thread를 통해 현재 시간을 나타나도록 하겠습니다.<br>
 <br>
 
 ![실행 결과](https://github.com/junhyeok1667/JDBC-PROJECT-cafe-/blob/main/Day3/img_3.png)
 <br>
-
+<br>
 4. 마지막으로 JFrame에 tabbedPane을 생성해보도록 하겠습니다.<br>
 <br>
 
