@@ -12,7 +12,7 @@
 
 이제 본격적으로 결제 폼을 만들어 보도록 하겠습니다.<br>
 <br>
-<br>1. 매개변수를 통해 생성자를 만들기
+<br>1. 매개변수를 통해 생성자를 만들기<br>
 ![실행 결과](https://github.com/junhyeok1667/JDBC-PROJECT-cafe-/blob/main/Day4/img_2.png)
 <br>
 <br>2. 상단의 음식종류와 총 결제금액 Label 생성<br>
