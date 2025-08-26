@@ -13,6 +13,7 @@
 <br>
 1. 상단의 식권발매프로그램 Label을 만들어 보도록 하겠습니다.<br>
 <br>
+
 ![실행 결과](https://github.com/junhyeok1667/JDBC-PROJECT-cafe-/blob/main/Day3/img_1.png)
 <br>
 
@@ -30,11 +31,14 @@
 
 4. 마지막으로 JFrame에 tabbedPane을 생성해보도록 하겠습니다.<br>
 <br>
+
 우선 tabbedPane이란 여러패널을 탭으로 전환할 수 있는 컴포넌트를 말합니다. tabbedPane을 사용하면 공간을 보다 효과적으로 활용할 수 있습니다.<br>
+
 ![실행 결과](https://github.com/junhyeok1667/JDBC-PROJECT-cafe-/blob/main/Day3/img_4.png)
 
 이렇게 코드를 작성 후 실행을 해주면 아래의 그림과 같이 결과가 나오게 됩니다.<br>
 <br>
+
 ![실행 결과](https://github.com/junhyeok1667/JDBC-PROJECT-cafe-/blob/main/Day3/img_5.png)
 <br>
 이렇게 Day3 사용자 폼 만들기를 해보았습니다.<br>
