@@ -1,13 +1,13 @@
 오늘은 저번 보험설계 프로젝트를 할때와 동일하게 우선 Eclipse와 Mysql을 연동 후 text파일을 읽어 mysql에 데이터베이스를 삽입하는 과정을 진행해보도록 하겠습니다.<br>
 저번 보험설계 프로젝트와 Eclipse와 Mysql을 연동하는 방법과 테이블 생성 후 데이터를 삽입하는 것은 동일하기에 아래의 글을 참고하면 되겠습니다.<br>
 <br>
-
+MySQl과 Eclipse연동하기<br>
 [블로그 바로가기](https://chilisugar-project.tistory.com/2)
 <br>
-
+관리자 테이블 생성하기<br>
 [블로그 바로가기](https://chilisugar-project.tistory.com/3)
 <br>
-
+파일을 읽어 파일 내용을 관리자테이블에 삽입하기<br>
 [블로그 바로가기](https://chilisugar-project.tistory.com/4)
 <br>
 
