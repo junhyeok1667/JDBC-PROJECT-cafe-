@@ -1,8 +1,8 @@
 안녕하세요. Day1부터 Day13까지 만든 코드들을 합쳐 최종jar로 만드는 작업을 진행해보도록 하겠습니다.<br>
-Eclipse를 통해 jar파일을 만드는 방법은 아래와 같이 첨부하겠습니다.==>
+Eclipse를 통해 jar파일을 만드는 방법은 아래와 같이 첨부하겠습니다.==>[블로그 바로가기](https://chillysugar-study.tistory.com/17)<br>
 
 
-[블로그 바로가기](https://chillysugar-study.tistory.com/17)<br>
+
 
 <br>
 1. 데이터베이스<br>
