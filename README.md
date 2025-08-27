@@ -18,9 +18,9 @@ Java와 MySQL을 이용하여 2017년 지방기능 경기대회 문제를 풀어
 - [Day10](Day10/Day10.md)
 - [Day11](Day11/Day11.md)
 - [Day12](Day12/Day12.md)
-- [Day13](Day10/Day13.md)
-- [Day14](Day11/Day14.md)
-- [Day15](Day12/Day15.md)
+- [Day13](Day13/Day13.md)
+- [Day14](Day14/Day14.md)
+- [Day15](Day15/Day15.md)
 
 ---
 
