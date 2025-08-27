@@ -39,6 +39,7 @@
 ![실행 결과](https://github.com/junhyeok1667/JDBC-PROJECT-cafe-/blob/main/Day6/img_5.png)
 
 <br>
+
 [![영상 보기](Day6.png)]https://tv.kakao.com/v/448757098)<br>
 
 
