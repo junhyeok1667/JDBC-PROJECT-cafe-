@@ -7,7 +7,7 @@
 그림[2-22]에 보이는 것 처럼 메뉴관리 폼의 틀을 만들어보도록 하겠습니다.<br>
 그림[2-22]를 보면 평상시 만들던 것과 다르게 "□"과 같이 JTable안에 Checkbox로 선택이 가능하게 되어있습니다.<br>
 [블로그 바로가기](https://chillysugar-study.tistory.com/35)
-JTable안에 Checkbox를 넣는 방법은 포스팅 해두었으니 필요하신분들은 확인하시면 감사하겠습니다.<br>
+==>JTable안에 Checkbox를 넣는 방법은 포스팅 해두었으니 필요하신분들은 확인하시면 감사하겠습니다.<br>
 <br>
 ![실행 결과](https://github.com/junhyeok1667/JDBC-PROJECT-cafe-/blob/main/Day11/img_2.png)<br>
 ![실행 결과](https://github.com/junhyeok1667/JDBC-PROJECT-cafe-/blob/main/Day11/img_3.png)<br>
