@@ -6,6 +6,7 @@
 <br>아래의 코드를 작성하면 [그림 2-18]과 같은 결과가 나오게 됩니다.<br>
 
 ![실행 결과](https://github.com/junhyeok1667/JDBC-PROJECT-cafe-/blob/main/Day10/img_1.png)<br>
+<br>
 이제 메뉴등록을 누르면 신규 메뉴 등록 폼이 나오도록 하겠습니다!<br>
 ![실행 결과](https://github.com/junhyeok1667/JDBC-PROJECT-cafe-/blob/main/Day10/img_2.png)<br>
 <br>
