@@ -25,4 +25,4 @@ Java와 MySQL을 이용하여 2017년 지방기능 경기대회 문제를 풀어
 ---
 
 ## 📑 대회 원본 문제
-- [정보기술(제2과제 JAVA Programming).pdf](정보기술(제2과제%20JAVA%20Programming).pdf)
+[정보기술(제2과제 JAVA Programming).hwp](정보기술(제2과제%20JAVA%20Programming).hwp)
